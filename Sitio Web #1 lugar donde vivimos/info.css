@@ -67,3 +67,10 @@ body{
     color: black;
     transform: scale(1.2);
 }
+
+.style-form{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item-tem{
+    font-family: Arial, Helvetica, sans-serif;
+}
